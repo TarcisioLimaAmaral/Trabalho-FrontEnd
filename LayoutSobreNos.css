@@ -1,0 +1,42 @@
+.quemsomos-cabecalho{
+    height: 120px;
+    border-bottom: 2px  black;
+    background-color:  #FF66C4;
+   
+    padding-top: 10px;
+}
+.quemsomos-cabecalho-home{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: auto;
+}
+.logo{
+    float: right;
+}
+.quemsomos-cabecalho > h1{
+     color: black;
+     margin: 4%;
+}    
+.mensagem{
+    color: #7ED957 ;
+    text-align: left;
+    margin-top: 10%;
+    margin-left: 2%;
+    padding-top: 2%;
+    
+}
+.mensagem h2{
+
+}
+.imagens{
+   
+    float:none;
+  
+    border-radius: 10px;
+    margin-top: 100px;
+    display: inline-block;
+}
+
+    
